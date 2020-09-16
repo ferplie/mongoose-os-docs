@@ -2,7 +2,7 @@
 
 
 ## Prepare Google Spreadsheet
-- Create and empty Google spreadsheet
+- Create an empty Google spreadsheet
 - Click on Tools / Script Editor, paste the following code:
   ```javascript
   function doPost(e) {
